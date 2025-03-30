@@ -88,5 +88,5 @@ if (scene.intersect(ray, t, color)) {
     color = glm::pow(color, glm::vec3(1.0f / gamma));
 }
 
-
+![Gamma Corrected Output](Q2_result.JPG)
 Q2_result.JPG
